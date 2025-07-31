@@ -26,9 +26,9 @@ _Back view miniature_
 ## Component
 
 - **ESP32 Microcontroller**
-- **LED(red) 3x**
+- **LED (red) 3x**
 - **Resistor 1K ohm**
-- **LM2596(DC-DC Stepdown)**
+- **LM2596 (5V DC-DC Stepdown)**
 - **9V Battery**
 - **Switch**
 - **PCB Hole**
@@ -36,10 +36,15 @@ _Back view miniature_
 
 <br>
 
-## Connection and Wiring Diagram
+## Connection and Schematic
 
 | Component | ESP32 Pin |
 | :-------- | :-------: |
-| LED-1     |    D01    |
-| LED-2     |    D02    |
-| LED-3     |    D03    |
+| LED-1     |    D19    |
+| LED-2     |    D22    |
+| LED-3     |    D23    |
+
+
+### Schematic
+
+![Schematic](/Photo/Schematic.png)
