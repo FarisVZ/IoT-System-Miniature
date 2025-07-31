@@ -12,6 +12,8 @@
 
  *Front view miniature*
 
+ <br>
+ 
  ![Back View](/Photo/LookBack1.jpg)
 
  *Back view miniature*
