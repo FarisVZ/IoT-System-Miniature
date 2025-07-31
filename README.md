@@ -50,10 +50,10 @@ _Back view miniature_
 | LED-3     |    D23    |
 
 
-Check [this link](/Photo/Schematic.png) or go to Photo/ folder to check the schematic for this project.
+Check [this link](/Photo/Schematic.png) or go to `Photo/` folder to check the schematic for this project.
 
 <br>
 
 ## Code
 
-The source code for this project can be found in [this link](/Code/HouseMini.ino) or in the Code folder.
+The source code for this project can be found in [this link](/Code/HouseMini.ino) or in the `Code/` folder.
