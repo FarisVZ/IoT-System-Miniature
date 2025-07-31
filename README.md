@@ -1,6 +1,5 @@
 # IoT-System-Miniature
 
- an medium to explain basic home automation
 
  <br>
 
