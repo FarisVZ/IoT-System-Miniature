@@ -36,15 +36,15 @@ _Back view miniature_
 
 <br>
 
-## Connection and Schematic
+## Wiring Diagram
+
+![Schematic](/Photo/Wiring.jpg)
+
+
+> Black wire mean Gnd/(-) and red wire mean Vcc/(+), Unless LEDs red wire it connect to ESP32 GPIO pin that show in below tabel
 
 | Component | ESP32 Pin |
 | :-------- | :-------: |
 | LED-1     |    D19    |
 | LED-2     |    D22    |
 | LED-3     |    D23    |
-
-
-### Schematic
-
-![Schematic](/Photo/Schematic.png)
