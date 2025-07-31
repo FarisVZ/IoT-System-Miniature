@@ -11,7 +11,7 @@
 
 ## Description
 
-This device is one of the project assigned by the school to design and build a IoT Based Device and demonstrate it **Check [Presentation](/presentation/) to see the powerpoint presentation file, it include Indonesia and English version**. The final product is a replica house with three rooms, each equipped with LEDs act as smart lamps that can be controlled separately via an app, in this case using Blynk. The device is built using an ESP32 microcontroller as an main brigde to enable wireless communication between the LEDs and Blynk.
+This device is one of the project assigned by the school to design and build a IoT Based Device and demonstrate it **Check [Presentation](/presentation/) to see the presentation file(PDF), it include Indonesia and English version**. The final product is a replica house with three rooms, each equipped with LEDs act as smart lamps that can be controlled separately via an app, in this case using Arduino Cloud. The device is built using an ESP32 microcontroller as an main brigde to enable wireless communication between the LEDs and Arduino Cloud.
 
 ![Front View](/Photo/LookFront1.jpg)
 _Front view miniature_
@@ -41,7 +41,7 @@ _Back view miniature_
 ![Schematic](/Photo/Wiring.jpg)
 
 
-> Black wire mean Gnd/(-) and red wire mean Vcc/(+), Unless LEDs red wire it connect to ESP32 GPIO pin that show in below tabel
+> Black wire mean Gnd/(-) and red wire mean Vcc/(+), Unless LEDs red wire it connect to ESP32 GPIO pin as shown in the table below
 
 | Component | ESP32 Pin |
 | :-------- | :-------: |
