@@ -12,7 +12,7 @@
 
 ## Description
 
- This device is one of the project assigned by the school to design and build a IoT Based Device and demonstrate it. The final product is a replica house with three rooms, each equipped with LEDs act as smart lamps that can be controlled separately via an app, in this case using Blynk. The device is built using an ESP32 microcontroller as an main brigde to enable wireless communication between the LEDs and Blynk.
+ This device is one of the project assigned by the school to design and build a IoT Based Device and demonstrate it `Check [Presentation](/presentation/) to see the powerpoint presentation, it include Indonesia and English version`. The final product is a replica house with three rooms, each equipped with LEDs act as smart lamps that can be controlled separately via an app, in this case using Blynk. The device is built using an ESP32 microcontroller as an main brigde to enable wireless communication between the LEDs and Blynk.
 
 
  ![Front View](/Photo/LookFront1.jpg)
@@ -24,5 +24,16 @@
 
  ![Back View](/Photo/LookBack1.jpg)
  *Back view miniature*
+
+ ## Component
+
+ - **ESP32 Microcontroller**
+ - **LED(red) 3x**
+ - **Resistor 1K ohm**
+ - **LM2596(DC-DC Stepdown)**
+ - **9V Battery**
+ - **Switch**
+ - **PCB Hole**
+
 
 
